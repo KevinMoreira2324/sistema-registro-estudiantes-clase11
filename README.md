@@ -60,6 +60,11 @@ python3 sistema_estudiantes.py
  - [ ] Validación de datos 
  - [ ] Mejorar la interfaz
 
+## Próximas mejoras 
+ - Validar datos ingresados. 
+ - Agregar almacenamiento de estudiantes. 
+ - Mejorar la presentación del sistema. 
+ 
 ## Datos del Estudiante
 - Nombre: Kevin Andres Moreira Vincenti
 - Carrera: Ingenieria Informatica 
